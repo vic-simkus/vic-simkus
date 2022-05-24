@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @vic-simkus
+- 👀 I’m interested in ...
+  - The interface between computers and the physical world.
+- 🌱 I’m currently learning ...
+  - Computer vision/OpenCV
+- 💞️ I’m looking to collaborate on ...
+  - Whatever.  Throw it at me.
+- 📫 How to reach me ...
+
+<!---
+vic-simkus/vic-simkus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
